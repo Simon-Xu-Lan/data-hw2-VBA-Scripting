@@ -40,4 +40,4 @@
 
 
 >>>>>>> 027fbf2f5991d422d6318b79734cb691bd43d8a6
-  ![Flow chart](https://github.com/Simon-Xu-Lan/data-hw2-VBA-Scripting/blob/master/data-hw2-VBA.png)
+  ![Flow chart](https://github.com/Simon-Xu-Lan/data-hw2-VBA-Scripting/blob/master/data-hw2-VBA1.png)
