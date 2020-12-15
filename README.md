@@ -35,4 +35,6 @@
       - Binary search is 17 times faster than linear search
 
 - Flow Chart
+
+
   ![Flow chart](https://github.com/Simon-Xu-Lan/data-hw2-VBA-Scripting/blob/master/data-hw2-VBA.png)
