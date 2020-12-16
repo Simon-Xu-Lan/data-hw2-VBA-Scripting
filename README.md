@@ -36,4 +36,4 @@
 
 - Flow Chart
 
-  ![Flow chart](https://github.com/Simon-Xu-Lan/data-hw2-VBA-Scripting/blob/master/data-hw2-VBA.png)
+  ![Flow chart](https://github.com/Simon-Xu-Lan/data-hw2-VBA-Scripting/blob/master/data-hw2-VBA1.png)
