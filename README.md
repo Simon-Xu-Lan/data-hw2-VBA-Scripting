@@ -5,9 +5,9 @@
 <img src="images/year2014.PNG" width="1000" />
 
 ### Year 2015
-<img src="images/year2015.PNG" />
+<img src="images/year2015.PNG" width="1000" />
 ### Year 2016
-<img src="images/year2016.PNG" />
+<img src="images/year2016.PNG" width="1000"/>
 
 - Run the Micro: run_ticker_analyzer.
 - Sub: run_ticker_analyser
