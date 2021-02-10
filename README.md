@@ -1,6 +1,7 @@
 # data-hw2-VBA-Scripting
-## Result
-- Result_Multiple_year_stock_data.xlsm
+## Result file:
+- Result_Multiple_year_stock_data.xlsx
+## Result screenshot:
 ### Year 2014
 <img src="images/year2014.PNG" width="1000" />
 
