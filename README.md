@@ -2,6 +2,7 @@
 ## Result
 - Result_Multiple_year_stock_data.xlsm
 ### Year 2014
+<img src="images/year2014.png" />
 ![Screen shot year 2014](/images/year2014.png)
 
 ### Year 2015
