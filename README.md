@@ -3,14 +3,11 @@
 - Result_Multiple_year_stock_data.xlsm
 ### Year 2014
 <img src="images/year2014.PNG" />
-![Screen shot year 2014](images/year2014.PNG)
 
 ### Year 2015
-![Screen shot year 2014](images/year2015.png)
-
+<img src="images/year2015.PNG" />
 ### Year 2016
-![Screen shot year 2014](images/year2016.png)
-
+<img src="images/year2016.PNG" />
 
 - Run the Micro: run_ticker_analyzer.
 - Sub: run_ticker_analyser
