@@ -1,4 +1,15 @@
 # data-hw2-VBA-Scripting
+## Result
+- Result_Multiple_year_stock_data.xlsm
+### Year 2014
+![Screen shot year 2014](images/year2014.png)
+
+### Year 2015
+![Screen shot year 2014](images/year2015.png)
+
+### Year 2016
+![Screen shot year 2014](images/year2016.png)
+
 
 - Run the Micro: run_ticker_analyzer.
 - Sub: run_ticker_analyser
