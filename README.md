@@ -2,7 +2,7 @@
 ## Result
 - Result_Multiple_year_stock_data.xlsm
 ### Year 2014
-<img src="images/year2014.PNG" />
+<img src="images/year2014.PNG" width="1000" />
 
 ### Year 2015
 <img src="images/year2015.PNG" />
